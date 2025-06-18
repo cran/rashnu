@@ -1,13 +1,14 @@
-c5ac1a1802d6e3d73fc91813aae668a7 *DESCRIPTION
+83391f81f1ff74552451a1afed67e59c *DESCRIPTION
 df9dc9105298d63e9bcd44a730ce8cd9 *LICENSE
 7e84d76c04006f63a63f83ca23aca86f *NAMESPACE
-da7b3e317f7c551fdc17fd8a64d43766 *NEWS.md
+2731585742cc761ddede6f91b512cc16 *NEWS.md
 2958effc61fdaa810bf82bde9f3a4b63 *R/lakatosSampleSize.R
 3b38ae3787fa60020d6ea644d294f434 *R/oneSurvSampleSize.R
-f90d93699dd16a79123b3327ca6547b2 *R/rashnuBasic.R
+dd83e37f8032bae13d3617de143a3454 *R/rashnuBasic.R
 63d4058836ce50e21298383e6f361723 *R/twoSurvSampleSizeNI.R
 696d9234ed2236127b48d08aa243f944 *inst/rstudio/addins.dcf
 1a9885b44e06351467390b78272f2dca *inst/www/style.css
+9f7731d832b7889c935cf8d5e703505b *man/figures/addin.gif
 1f55446ef19adb4903e1ea01a187315b *man/lakatosSampleSize.Rd
 4cd247975e9dbdd6d013999acf809911 *man/oneSurvSampleSize.Rd
 6c83f02df990267ddf618200e8159d1e *man/rashnuBasic.Rd

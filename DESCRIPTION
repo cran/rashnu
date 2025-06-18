@@ -1,18 +1,24 @@
 Package: rashnu
 Title: Balanced Sample Size and Power Calculation Tools
-Version: 0.1.0
-Authors@R: 
-    person("Sungho", "Choi", , "1213sam0@gmail.com", role = c("aut", "cre"))
+Version: 0.1.1
+Authors@R: c(
+    person("Sungho", "Choi", , "1213sam0@gmail.com", role = c("aut", "cre")),
+    person("Zarathu", role = c("cph", "fnd"))
+    )
 Description: Implements sample size and power calculation methods with a focus on balance and fairness in study design, inspired by the Zoroastrian deity Rashnu, the judge who weighs truth. Supports survival analysis and various hypothesis testing frameworks.
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 Imports: shiny, DT, stats
-Suggests: testthat (>= 3.0.0)
+Suggests: covr, testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://zarathucorp.github.io/rashnu/,
+        https://github.com/zarathucorp/rashnu
+BugReports: https://github.com/zarathucorp/rashnu/issues
 NeedsCompilation: no
-Packaged: 2025-05-14 07:44:36 UTC; sungho.choi
-Author: Sungho Choi [aut, cre]
+Packaged: 2025-06-18 08:44:49 UTC; sungho.choi
+Author: Sungho Choi [aut, cre],
+  Zarathu [cph, fnd]
 Maintainer: Sungho Choi <1213sam0@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-05-16 09:40:05 UTC
+Date/Publication: 2025-06-18 09:10:02 UTC
